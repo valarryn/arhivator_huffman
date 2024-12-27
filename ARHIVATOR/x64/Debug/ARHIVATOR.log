@@ -1,0 +1,38 @@
+﻿  ARHIVATOR.cpp
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(24,19): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(24,19): warning C4309: инициализация: усечение константного значения
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(59,25): warning C4305: =: усечение из "int" в "char"
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(59,25): warning C4309: =: усечение константного значения
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(118,34): warning C4305: =: усечение из "int" в "char"
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(118,34): warning C4309: =: усечение константного значения
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(120,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(120,26): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16): warning C4244:         ]
+  (компиляция исходного файла "ARHIVATOR.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,16):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(51,5):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<__int64,__int64,0>(std::pair<__int64,__int64> &&) noexcept"
+  		C:\Users\velko\source\repos\ARHIVATOR\ARHIVATOR\ARHIVATOR.cpp(51,5):
+  		см. первую ссылку на "std::pair<int,int>::pair" в "minimum"
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         ]
+  (компиляция исходного файла "ARHIVATOR.cpp")
+  
+  ARHIVATOR.vcxproj -> C:\Users\velko\source\repos\ARHIVATOR\x64\Debug\ARHIVATOR.exe
